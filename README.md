@@ -35,3 +35,10 @@ Dokumentasi Pembelajaran Pandas
 1. Indexing
 2. Slicing
 3. Transforming
+
+## [Notebook 4C - Handling With Missing Values](https://github.com/dikoharyadhanto/Pandas-Documentation/blob/4e9a3a4477c14d2292b0d302cdbafd5a5c0e0e50/004-Handling_With_Missing_Values.ipynb)
+
+**Content:**
+
+1. Inspeksi Missing Value
+2. Treatment untuk Missing Value
