@@ -78,3 +78,6 @@ Dokumentasi Pembelajaran Pandas
 2. Resampling untuk Time Series Data
 3. Resampling by Frequency
 4. Visualisasi Time Series
+
+## Pandas Project
+### [Pandas Project 1](https://github.com/dikoharyadhanto/Pandas-Documentation/blob/418f698049f6c0bfac95d5f22407a032c1163cbb/Pandas_Project_1.ipynb)
