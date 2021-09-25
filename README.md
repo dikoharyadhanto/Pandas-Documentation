@@ -51,3 +51,12 @@ Dokumentasi Pembelajaran Pandas
 2. Method .concat()
 3. Method .merge()
 4. Method .join()
+
+## [Notebook 6C - Pivot, Melt, Stack & Unstack](https://github.com/dikoharyadhanto/Pandas-Documentation/blob/f28de2e54742cb7d91589e704826867bea658630/006-Pivot_Melt_Stack_Unstack.ipynb)
+
+**Content:**
+
+1. Pivot
+2. Pivot Table
+3. Melt
+4. Stack & Unstack
