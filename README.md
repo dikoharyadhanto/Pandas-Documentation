@@ -60,3 +60,12 @@ Dokumentasi Pembelajaran Pandas
 2. Pivot Table
 3. Melt
 4. Stack & Unstack
+
+## [Notebook 7C - Aggregation & GroupBy](https://github.com/dikoharyadhanto/Pandas-Documentation/blob/eda0586741a5f5380a44f4b2e79c3df0554899fc/007_Aggregation_GroupBy.ipynb)
+
+**Content:**
+
+1. Groupby dan Aggregasi dengan Fungsi Statistik Dasar
+2. Groupby dengan Multiple Aggregations
+3. Groupby dengan Custom Aggregations
+4. Groupby dengan Custom Aggregations by dict
