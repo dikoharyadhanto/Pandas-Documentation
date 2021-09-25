@@ -42,3 +42,12 @@ Dokumentasi Pembelajaran Pandas
 
 1. Inspeksi Missing Value
 2. Treatment untuk Missing Value
+
+## [Notebook 5C - Penggabungan Series/DataFrame](https://github.com/dikoharyadhanto/Pandas-Documentation/blob/058a6708ed002a708ba265c5eea94b9ca7edaf08/005-Penggabungan_Series_DataFrame.ipynb)
+
+**Content:**
+
+1. Method .append()
+2. Method .concat()
+3. Method .merge()
+4. Method .join()
