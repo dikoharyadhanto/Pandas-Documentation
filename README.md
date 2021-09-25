@@ -69,3 +69,12 @@ Dokumentasi Pembelajaran Pandas
 2. Groupby dengan Multiple Aggregations
 3. Groupby dengan Custom Aggregations
 4. Groupby dengan Custom Aggregations by dict
+
+## [Notebook 8C - Time Series](https://github.com/dikoharyadhanto/Pandas-Documentation/blob/6ef5512ede131c7ea0ba8151b8c0dcd252c7c12c/008-Time_Series.ipynb)
+
+**Content:**
+
+1. Convert to Datetime
+2. Resampling untuk Time Series Data
+3. Resampling by Frequency
+4. Visualisasi Time Series
