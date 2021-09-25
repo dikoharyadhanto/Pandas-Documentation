@@ -27,3 +27,11 @@ Dokumentasi Pembelajaran Pandas
 5. Read Dataset - Google BigQuery
 6. Write Dataset
 7. Head & Tail
+
+## [Notebook 3C - Indexing, Slicing, & Transforming](https://github.com/dikoharyadhanto/Pandas-Documentation/blob/361fe84e595ce2985218c8101ad3b2850932e8c5/003_Indexing_Slicing_Transforming.ipynb)
+
+**Content:**
+
+1. Indexing
+2. Slicing
+3. Transforming
